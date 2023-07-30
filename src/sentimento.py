@@ -1,7 +1,6 @@
 import openai
-import os
-
-openai.api_key = '<sua chave de api>'
+from env import secret
+openai.api_key = secret.API_KEY
 
 class sentimento():
     def mensage(sefl,pergunta):
