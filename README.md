@@ -1,5 +1,7 @@
 # unicarioca_pos
 
+# Integração Eficiente de ChatGPT na Análise de Sentimentos: Um Estudo Comparativo com Modelos Convencionais
+
 ## introdução
 <br>
 Com o que podemos chamar de marco da computação casual a liberação do ChatGPT para uso comercial em larga escala, desencadeou a corrida por novas formas de integração da computação com as inteligências artificias casuais, tais essas que vão de simples tarefas de uma simples conversa a funcionar como auxiliar de programação em qualquer linguagem de computação, hoje nós temos empresas como Meta e Google entre outras que estão nessa corrida em busca de espaço nessa nova categoria de uso casual.
